@@ -1,0 +1,4 @@
+I used https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html.
+
+My code is flexible.
+I upload two images to prove with few changes I can create a new character easily.
